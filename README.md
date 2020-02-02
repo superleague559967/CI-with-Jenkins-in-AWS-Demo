@@ -4,4 +4,4 @@
 This is my first update.
 This is my update to test the CI CD jobs.
 Nexus Update and jenkins update
-This is just a new run.
+This is just for sonarqube test
